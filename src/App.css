@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 5px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 10px;
+}
